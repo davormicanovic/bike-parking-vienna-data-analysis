@@ -49,4 +49,4 @@ The analysis includes:
 
 
 ## 📬 Author
-- Davor Micanovic – [LinkedIn]() | [GitHub](https://github.com/davormicanovic)
+- Davor Micanovic – [LinkedIn](https://www.linkedin.com/in/davor-micanovic-63237b353/) | [GitHub](https://github.com/davormicanovic)
