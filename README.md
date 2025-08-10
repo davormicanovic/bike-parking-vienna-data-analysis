@@ -36,12 +36,17 @@ The analysis includes:
 5. **Top 10 addresses with most parking spots**
 
 ## 📈 Key Findings
-- The top 3 districts account for **X%** of total parking capacity.
-- District Y has the highest average capacity per station.
-- Street Z is the single most well-equipped street with N spots.
+- The top 3 districts account for 25,55% of total parking capacity.
+- District 2 has the highest capacity 7096 and highest number of stations (630)
+- Street Felberstraße (15. District) is the single most well-equipped street with 562 spots.
+- Vienna has 68005 Bicycle parking spots
 
 ## 🚀 Future Work (V2)
 - Extract longitude & latitude from the SHAPE column
 - Create Tableau visualizations (map & bar charts)
 - Add data quality checks (duplicates, null values)
 - Calculate capacity percentiles and distribution
+
+
+## 📬 Author
+- Davor Micanovic – [LinkedIn]() | [GitHub](https://github.com/davormicanovic)
